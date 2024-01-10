@@ -1,0 +1,5 @@
+{"title":"sprite","description":"gaseosa sabor lima","price":9999,"thumbnail":"foto","code":"abc12345","stock":45666}
+{"title":"producto prueba","description":"este producto es un producto prueba","price":200,"thumbnail":"sin imagen","code":"abc123","stock":25}
+{"title":"sprite","description":"gaseosa sabor lima","price":9999,"thumbnail":"foto","code":"abc12345","stock":45666,"id":5}
+"1"
+{"title":"coca","description":"gaseosa sabor naranja","price":1000,"thumbnail":"foto","code":"abc1234","stock":100,"id":1}
